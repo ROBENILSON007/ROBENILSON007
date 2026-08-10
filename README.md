@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2C974B&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Robenilson;Desenvolvedor+PHP+%2F+Web;Constru%C3%ADdo+com+caf%C3%A9+e+debug" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C974B,100:777BB4&height=200&section=header&text=Robenilson&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20PHP%20%7C%20Backend%20%26%20Sistemas%20Web&descAlignY=55&descSize=18" alt="header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=777BB4&center=true&vCenter=true&width=600&lines=Desenvolvedor+PHP+%7C+Symfony;Backend%2C+APIs+e+sistemas+de+gest%C3%A3o;Multi-tenant+%7C+SaaS+%7C+Integra%C3%A7%C3%B5es+de+pagamento;Constru%C3%ADdo+com+caf%C3%A9+e+debug" alt="Typing SVG" />
 
 </div>
 
@@ -8,15 +10,19 @@
 
 ### 🚀 O que eu faço
 
-- 🔧 Desenvolvimento de aplicações web back-end em **PHP**, com foco em APIs e sistemas de gestão
-- 🗄️ Modelagem e otimização de bancos de dados **relacionais**
-- 🧩 Arquitetura de sistemas multi-tenant e integrações com serviços de terceiros (pagamentos, e-mail, autenticação)
+- 🔧 Desenvolvimento de aplicações web back-end em **PHP**, com **Symfony** e **Doctrine ORM**, com foco em APIs e sistemas de gestão
+- 🏢 Construção de sistemas **SaaS multi-tenant**: múltiplos clientes, um só código, dados isolados de verdade
+- 🗄️ Modelagem e otimização de bancos de dados **relacionais** (MySQL/MariaDB)
+- 💳 Integrações com serviços de terceiros: pagamentos/assinaturas, webhooks, autenticação
 - 📈 Sempre aprendendo — atualmente de olho em boas práticas de arquitetura e segurança
 
 ### 🛠️ Tecnologias
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
+  <img src="https://img.shields.io/badge/Doctrine_ORM-FCA121?style=for-the-badge&logo=doctrine&logoColor=white" alt="Doctrine ORM" />
+  <img src="https://img.shields.io/badge/Twig-8DC63F?style=for-the-badge&logo=symfony&logoColor=white" alt="Twig" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -51,3 +57,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ROBENILSON007&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=8A2BE2&style=flat" alt="Profile views" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:777BB4,100:2C974B&height=100&section=footer" alt="footer" />
