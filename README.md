@@ -35,16 +35,7 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ROBENILSON007&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBENILSON007&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=ROBENILSON007&theme=radical&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ROBENILSON007&theme=radical&no-frame=true&row=1&column=6" alt="GitHub trophies" />
 </p>
 
 ### 📫 Contato
@@ -55,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ROBENILSON007&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=8A2BE2&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ROBENILSON007&base=1288&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=8A2BE2&style=flat" alt="Profile views" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:777BB4,100:2C974B&height=100&section=footer" alt="footer" />
